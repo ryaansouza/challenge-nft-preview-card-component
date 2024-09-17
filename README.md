@@ -31,7 +31,7 @@ Usuarios devem ser capaz de:
 ### Links
 
 - GitHub Repository: [https://github.com/ryaansouza/challenge-nft-preview-card-component](https://github.com/ryaansouza/challenge-nft-preview-card-component)
-- Deploy: [#](#)
+- Deploy: [https://ryaansouza.github.io/challenge-nft-preview-card-component/](https://ryaansouza.github.io/challenge-nft-preview-card-component/)
 
 ## My process
 
